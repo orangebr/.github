@@ -1,6 +1,6 @@
-# 🧡 OrangeBR
+# 🧡 Orange Labs
 
-Bem-vindo à **OrangeBR** — uma organização dedicada a construir produtos digitais que transformam o dia a dia de pessoas e empresas com soluções tecnológicas inovadoras, seguras e escaláveis.
+Bem-vindo à **Orange Labs** — uma organização dedicada a construir produtos digitais que transformam o dia a dia de pessoas e empresas com soluções tecnológicas inovadoras, seguras e escaláveis.
 
 ## 🚀 Nossos Produtos Principais
 
