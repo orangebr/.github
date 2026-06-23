@@ -58,4 +58,4 @@ Ajuda a eliminar fraudes por comprovantes falsos e automatizar a conciliação d
 Se você quer saber mais sobre nossos produtos ou oportunidades de parceria, entre em contato conosco!
 
 
-[1]: https://usebill.com.br/?utm_source=chatgpt.com "Bill - Pague contas sem papel"
+[1]: https://usebill.com.br/ "Bill - Pague contas sem papel"
